@@ -1,0 +1,38 @@
+.logo {
+    width: 100%;
+    max-width: 60px;
+}
+
+.header-content {
+    width: 49%;
+    display: inline-block;
+}
+
+.header-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.jumbotron.header {
+    background-image: linear-gradient(to left, #30cfd0 0%, #330867 100%);
+    border-radius: 0;
+    color: #fff;
+}
+
+.btn-more {
+    background: #30adbe;
+    border: 1px solid #30adbe;
+}
+
+.btn-more:hover {
+    background: #2fa3b3;
+    border: 1px solid #2fa3b3;
+}
+
+h2.title {
+    width: auto;
+    text-align: center;
+    /* margin: 0 auto; */
+}
+
