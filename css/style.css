@@ -32,7 +32,14 @@
 
 h2.title {
     width: auto;
+    display: inline-block;
     text-align: center;
-    /* margin: 0 auto; */
+    margin: 0 auto;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #324085;
+}
+
+main.container section {
+    text-align: center;
 }
 
